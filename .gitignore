@@ -130,3 +130,5 @@ dmypy.json
 
 # temp
 temp.py
+design.py
+graphic_arts/start_game_banner.py
